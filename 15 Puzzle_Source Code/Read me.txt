@@ -1,0 +1,6 @@
+To Compile 15 Puzzle Program (LineX)
+--------------------------------------------------
+
+g++ _15Puzzle.c -std=c++11 -fopenmp -o _15Puzzle
+
+./_puzzle
