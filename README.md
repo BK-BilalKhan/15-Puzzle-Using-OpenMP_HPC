@@ -8,7 +8,7 @@ The 15-puzzle (also called Gem Puzzle, Boss Puzzle, Game of Fifteen, Mystic Squa
     g++ _15Puzzle.c -std=c++11 -fopenmp -o _15Puzzle
     ./_puzzle
     
-## Input and Output
+## Input and Partial Output
      ------------------------------ ------------------------------
      -- Inputs and Output with Time
      ------------------------------ ------------------------------
